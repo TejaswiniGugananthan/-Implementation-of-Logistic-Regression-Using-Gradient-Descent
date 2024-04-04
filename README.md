@@ -8,16 +8,18 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Use the standard libraries in python for finding linear regression.
+2.Set variables for assigning dataset values.
+3.Import linear regression from sklearn.
+4.Predict the values of array.
+5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+6.Obtain the graph.
 
 ## Program:
 
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
+Developed by: G.TEJASWINI
+RegisterNumber:  212222230157
 
 ```python
 
@@ -109,6 +111,37 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
+
+1.Array of X
+             ![image](https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/4a153249-82de-4922-9bc3-2cfb3f840784)
+
+2.Array Value of y
+             ![image](https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/9c3bcdb4-1f38-4633-8989-ec3c4377f162)
+
+3.Exam 1 - score graph
+            <img width="282" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/ce073978-3311-4cfa-87ea-4a754149050c">
+
+4.Sigmoid function graph
+            <img width="281" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/e6521cce-5589-42a6-b61d-cb0a24122f4d">
+
+5.X_train_grad value
+             <img width="114" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/aec8109b-539f-4e04-829f-e87095d83f5a">
+
+6.Y_train_grad value
+          <img width="97" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/1291c7c3-b8ca-4e3f-8168-a41053f2a205">
+
+7.Print res.x
+          <img width="155" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/d37124d7-bd3a-47e0-ad9b-0d1c07ad72aa">
+
+8.Decision boundary - graph for exam score
+           <img width="276" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/d82d197e-41e4-4e37-9f71-eb4fd83f3985">
+
+9.Proability value
+           <img width="105" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/0e185156-4d6b-4330-892a-25ae866b22d3">
+
+10.Prediction value of mean
+           <img width="42" alt="image" src="https://github.com/TejaswiniGugananthan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121222763/96154aa6-5c19-45b6-928b-c083e6b04806">
+
 
 
 
